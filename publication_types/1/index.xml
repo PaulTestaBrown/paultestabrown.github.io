@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Paul Testa</copyright>
     <lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication_types/1/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://paultestabrown.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Seeing is Believing: How video of police action affects criminal justice beliefs</title>
