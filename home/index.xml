@@ -8,55 +8,7 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Paul F. Testa</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://paultestabrown.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
-      <link>https://paultestabrown.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://paultestabrown.github.io/home/about/</guid>
-      <description>Biography Paul Testa is an Assistant Professor of Political Science at Brown University. His research focuses applying principles of designed-based inference to the study of the politics of race and criminal justice system. Specifically, his work exmaines how interactions with institutions of criminal justice shape political behavior and how citizens more broadly form opinions about what is just and fair. He teaches courses in applied quantitative research at the graduate (POLS 2580) and undergraduate level (POLS 1600).</description>
-    </item>
-    
-    <item>
-      <title>CV</title>
-      <link>https://paultestabrown.github.io/home/cv/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://paultestabrown.github.io/home/cv/</guid>
-      <description>My c.v. is avialable here</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://paultestabrown.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://paultestabrown.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Teaching</title>
-      <link>https://paultestabrown.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://paultestabrown.github.io/home/teaching/</guid>
-      <description>I teach the following courses at Brown
- POLS 2580: Introduction to Quantitive Research Methods POLS 1600: Introduction to Research Methods POLS 1824: The Politics of Race and the Criminal Justice System  </description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://paultestabrown.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://paultestabrown.github.io/home/contact/</guid>
-      <description></description>
-    </item>
+    <atom:link href="/home/" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
